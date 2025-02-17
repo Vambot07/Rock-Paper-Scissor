@@ -1,6 +1,6 @@
 # Whack-A-Mole Game
 
-##Description
+## Description
 
 Whack-A-Mole is a fun and interactive game where you have to "whack" the moles that randomly pop up from different holes. The game keeps track of your score, and you can start, pause, or stop the game at any time. It also provides sound effects when a mole is hit or a button is clicked.
 
