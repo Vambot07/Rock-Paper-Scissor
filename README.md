@@ -20,7 +20,7 @@ Responsive layout: The game is designed to be played on various devices.
 
 4. Open the index.html file in your browser to start playing the game.
 
-5. Usage
+## Usage
    1. Start Playing: Click on any of the options (Rock, Paper, Scissors) to play against the computer.
    2. View Results: After choosing an option, the result (Win, Lose, or Draw) will be displayed.
    3. Reset the Game: To reset the scores, click the Reset button.
