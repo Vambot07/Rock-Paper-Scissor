@@ -1,4 +1,4 @@
-#Rock Paper Scissor Game
+# Rock Paper Scissor Game
 
 A simple interactive web-based Rock, Paper, Scissors game. You can play against the computer, where it randomly selects its choice, and you get to choose either Rock, Paper, or Scissors. The game tracks the score and allows you to reset it at any time.
 
